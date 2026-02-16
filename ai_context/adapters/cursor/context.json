@@ -1,0 +1,41 @@
+{
+  "output_dir": ".cursor",
+  "documents": [
+    {
+      "id": "rule-coding-001",
+      "kind": "rule",
+      "source": "rules/coding-standards.md",
+      "target": "rules/coding-standards.rule.md"
+    },
+    {
+      "id": "rule-arch-001",
+      "kind": "rule",
+      "source": "rules/architecture-principles.md",
+      "target": "rules/architecture-principles.rule.md"
+    },
+    {
+      "id": "rule-moodle-001",
+      "kind": "rule",
+      "source": "rules/moodle-constraints.md",
+      "target": "rules/moodle-constraints.rule.md"
+    },
+    {
+      "id": "rule-security-001",
+      "kind": "rule",
+      "source": "rules/security-policy.md",
+      "target": "rules/security-policy.rule.md"
+    },
+    {
+      "id": "rule-testing-001",
+      "kind": "rule",
+      "source": "rules/testing-requirements.md",
+      "target": "rules/testing-requirements.rule.md"
+    },
+    {
+      "id": "rule-cicd-001",
+      "kind": "rule",
+      "source": "rules/ci-cd.md",
+      "target": "rules/ci-cd.rule.md"
+    }
+  ]
+}

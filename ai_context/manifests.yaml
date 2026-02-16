@@ -1,0 +1,18 @@
+version: 1
+# Machine-readable index of all tasks.
+# Rebuilt from spec.md metadata in each tasks/ subdirectory.
+# AI agents use status: active tasks by default.
+
+tasks: []
+
+# Uncomment and fill when the first task is created:
+#
+# tasks:
+#   - id: MOB-42
+#     path: tasks/MOB-42
+#     status: active
+#     complexity: normal
+#     owner: "@username"
+#     tags: []
+#     created: 2026-01-01
+#     updated: 2026-01-01
